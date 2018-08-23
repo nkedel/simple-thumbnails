@@ -12,3 +12,8 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+# Add any directories, files, or patterns you don't want to be tracked by version control
+.idea/
+out/
+*~
+*.iml
